@@ -79,11 +79,3 @@ python spam_detector.py
 * Save & load model using pickle
 * Add precision, recall, F1-score
 * Deploy with Flask or FastAPI
-
----
-
-If you want, I can also make:
-✅ A GitHub-ready full project
-✅ A folder structure
-✅ A Jupyter Notebook version
-Just tell me!
